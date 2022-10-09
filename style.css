@@ -4,3 +4,14 @@ img {
     object-fit: contain;
 }
 
+nav li {
+    list-style-type: none;
+}
+
+a {
+   text-decoration: none; 
+   color: black;
+}
+ a:hover {
+    color: blue;
+ }
